@@ -13,7 +13,7 @@ My name is Merve Asil and I'm a DWH Data Engineer | Data Scientist. I'm living i
 
 ## 📫 How to reach me?
 [![Linkedin: merveasil](https://img.shields.io/badge/-merveasil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merve-asil-84842a140/)](https://www.linkedin.com/in/merve-asil-84842a140/)
-[![Kaggle: merveasil](https://img.shields.io/badge/-merveasil-lightblue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/melisalisa)](https://www.kaggle.com/melisalisa)
+[![Kaggle: merveasil](https://img.shields.io/badge/-merveasil-lightblue?style=flat-square&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/melisalisa)](https://www.kaggle.com/melisalisa)
 <!--[![Medium: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-brown?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@buldukufuk)](https://medium.com/@buldukufuk)-->
 <br>
 
