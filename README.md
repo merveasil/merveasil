@@ -62,9 +62,12 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 
 ## &#x1f4c8; GitHub Stats
 <div>
+  
+ <!-- 
 <a href="https://github.com/merveasil/merveasil">
   <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=merveasil&show_icons=true&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=radical" />
-
+-->
+  
 <!-- </a>
 <a href="https://github.com/merveasil/merveasil"> -->
   <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merveasil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Merve's GitHub Stats" />
